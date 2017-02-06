@@ -1,6 +1,6 @@
 {
-  "name": "shuffle-seed",
-  "version": "1.1.6",
+  "name": "shuffle-seed-rn",
+  "version": "1.1.7",
   "description": "Shuffle Array based on a Seed",
   "main": "index.js",
   "scripts": {
@@ -17,11 +17,11 @@
   "author": "Andre Caetano",
   "license": "MIT",
   "dependencies": {
-    "seedrandom": "^2.4.2"
+    "seedrandom-rn": "^2.5.0"
   },
   "repository": {
-    "name": "shuffle-seed",
-    "url": "https://github.com/webcaetano/shuffle-seed"
+    "name": "shuffle-seed-rn",
+    "url": "https://github.com/jozan/shuffle-seed"
   },
   "devDependencies": {
     "chai": "^3.4.0",
